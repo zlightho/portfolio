@@ -1,8 +1,6 @@
-# My Learning Tracker [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Web%20Dev%20learning%20tracker%20&url=https://github.com/Syknapse/My-Learning-Tracker&via=syknapse&hashtags=100DaysofCode)
+# My Learning Tracker
 
 A complete log of my web development skills, learning, resources, highlights, interests, and everything to do with my learning. It's a way to keep track, organise, and share my learning.
-
-[For my full portfolio click here](https://syknapse.github.io/Syk-Houdeib/ "https://syknapse.github.io/Syk-Houdeib") || [For my learning log click here](https://github.com/Syknapse/My-Learning-Tracker/blob/master/log.md "Regular logs of my learning with links, reflections, and information about my learning process")
 
 ----
 
@@ -12,11 +10,13 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 |               Skill              | 1<br>Introduction | 2<br>Basics   | 3<br>Good     | 4<br>Pretty Good | 5<br>Confident | 6<br>Awesome    |
 |:--------------------------------:|:-----------------:|:-------------:|:-------------:|:----------------:|:--------------:|:---------------:|
-|**HTML5**                         | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
-|**CSS3**                          | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
-|**JavaScript**                    | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**ES6**                           | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**Website Building**              | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
+|**Jira/Confluence**                         | ![done][done]     | ![done][done] | ![done][done] |                 |                 |                 |
+|**Бюджетирование проектов**                          | ![done][done]     | ![done][done] | ![done][done] |                 |                 |                 |
+|**Методологии в управлении проектов**                         | ![done][done]     | ![done][done] | ![done][done] |                 |                 |                 |
+|**Декомпозиция**                          | ![done][done]     | ![done][done] | ![done][done] |                 |                 |                 |
+|**Постановка задач**                    | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**Приоритезация**                           | ![done][done]     | ![done][done] |               |                  |                |                 |
+|**Управление рисками**              | ![done][done]     | ![done][done] | ![done][done] |                \|                |                 |
 |**Responsive design**             | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
 |**Mobile first**                  | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
 |**Progressive Enhancement**       | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
