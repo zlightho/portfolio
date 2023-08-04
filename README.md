@@ -15,28 +15,28 @@ A complete log of my web development skills, learning, resources, highlights, in
 |**Методологии в управлении проектов**                         | ![done][done]     | ![done][done] | ![done][done] |                 |                 |                 |
 |**Декомпозиция**                          | ![done][done]     | ![done][done] | ![done][done] |                 |                 |                 |
 |**Постановка задач**                    | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Приоритезация**                           | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**Управление рисками**              | ![done][done]     | ![done][done] | ![done][done] |                \|                |                 |
-|**Responsive design**             | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Mobile first**                  | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Progressive Enhancement**       | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Css Grid & Flex-box**           | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**GitHub**                        | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Bootstrap**                     | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**jQuery**                        | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Publishing website**            | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Git/Git bash**                  | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Command line**                  | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Markdown**                      | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
-|**Node.js**                       | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**NPM**                           | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**Open Source Contribution**      | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**React**                         | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**Angular 4**                     | ![done][done]     |               |               |                  |                |                 |
-|**Task runners Gulp/Grunt**       | ![done][done]     |               |               |                  |                |                 |
-|**NPM scripts**                   | ![done][done]     |               |               |                  |                |                 |
-|**AJAX**                          | ![done][done]     |               |               |                  |                |          .      |
-
+|**Приоритезация**                           | ![done][done]     | ![done][done] | ![done][done]     |                  |                |                 |
+|**Управление рисками**              | ![done][done]     | ![done][done] | ![done][done] |                |                |                 |
+|**Release management**              | ![done][done]     | ![done][done] | ![done][done] |                |                |                 |
+|**Use cases**              | ![done][done]     | ![done][done] | ![done][done] |                |                |                 |
+|**User histories**              | ![done][done]     | ![done][done] | ![done][done] |                |                |                 |
+|**BPMN**             | ![done][done]     | ![done][done] |                |                |                |                 |
+|**UML object diagram**             | ![done][done]     | ![done][done] |                |                |                |                 |
+|**UML case diagram**             | ![done][done]     | ![done][done] |                |                |                |                 |
+|**Sequence diagram**             | ![done][done]     | ![done][done] |                |                |                |                 |
+|**Прототипирование Figma**             | ![done][done]     | ![done][done] |                |                |                |                 |
+|**Git/Git bash**                  | ![done][done]     | ![done][done] |                  |                  |                |                 |
+|**Command line**                  | ![done][done]     | ![done][done] |                  |                  |                |                 |
+|**Clang**                  | ![done][done]     | ![done][done] |                  |                  |                |                 |
+|**Python**                  | ![done][done]     | ![done][done] |                  |                  |                |                 |
+|**Databases**                  | ![done][done]     | ![done][done] |                  |                  |                |                 |
+|**ORM**                  | ![done][done]     | ![done][done] |                  |                  |                |                 |
+|**Django/DjangoREST**                  | ![done][done]     | ![done][done] |                  |                  |                |                 |
+|**SQL**                  | ![done][done]     | ![done][done] |                  |                  |                |                 |
+|**ORM**                  | ![done][done]     | ![done][done] |                  |                  |                |                 |
+|**HTML**             | ![done][done]     | ![done][done] |                |                |                |                 |
+|**CSS Flex-box**           | ![done][done]     | ![done][done] |                |                |                |                 |
+|**Bootstrap**                     | ![done][done]     |                  |                  |                  |                |                 |
 ----
 
 ## Learning
